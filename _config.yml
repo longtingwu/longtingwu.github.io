@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Longting Wu's homepage"
 title_separator          : "-"
 name                     : &name "Longting Wu"
-description              : &description "personal description"
+description              : &description "I am a postdoctoral researcher at ETH Zurich"
 url                      : https://longtingwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longtingwu/longtingwu.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Longting Wu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a postdoctoral researcher at ETH Zurich"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
