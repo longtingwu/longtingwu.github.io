@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Research
-
 My research work focuses on the studying of Gromov-Witten invariants. 
-
-# Publications
 
 - [A remark on Gromov–Witten invariants of quintic threefold](https://doi.org/10.1016/j.aim.2017.12.016) *Adv. Math.* **326**, 241-313, 2018. [arXiv version](https://arxiv.org/abs/1705.06402).
 
