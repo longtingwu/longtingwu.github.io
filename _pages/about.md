@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at ETH Zurich in the group of [Rahul Pandharipand](https://people.math.ethz.ch/~rahul/). Before that, I got my PhD in 2017 from Beijing International Center For Mathematical Research, Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/). I will move to Max Planck Institute for Mathematics at Bonn from September 2021.
+I am currently a postdoctoral researcher at ETH Zurich in the group of [Rahul Pandharipand](https://people.math.ethz.ch/~rahul/). Before that, I got my PhD in 2017 from Beijing International Center For Mathematical Research, Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/). I will move to Max Planck Institute for Mathematics at Bonn from September 2021. 
+
+[comment]: <> (Here is my CV.)
+
 
