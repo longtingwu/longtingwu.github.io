@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am currently a postdoctoral researcher at ETH Zurich in the group of Rahul Pandharipand(https://people.math.ethz.ch/~rahul/)
+I am currently a postdoctoral researcher at ETH Zurich in the group of Rahul Pandharipand(https://people.math.ethz.ch/~rahul/). Before that, I get my PhD from Beijing International Center For Mathematical Research, Peking University, under the supervision of Xiaobo Liu(https://bicmr.pku.edu.cn/~xbliu/).
 
 
