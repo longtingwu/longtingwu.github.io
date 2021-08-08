@@ -12,6 +12,6 @@ Rämistrasse 101\
 8092 Zurich\
 Switzerland
 
-**Email:** longting.wu[at]math.ethz.ch
+**Email:** longting.wu@math.ethz.ch
 
 
