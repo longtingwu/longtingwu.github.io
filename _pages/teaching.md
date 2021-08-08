@@ -7,7 +7,6 @@ author_profile: true
 
 In the spring of 2020, I tauch the representation theory of the finite symmetric group at ETH Zurich. Here are few notes, slides and problems.
 
-
 - [Lecture 1](https://drive.google.com/file/d/1B0bhM0Anpzb31BsbUTix2W63KlA2KdnF/view?usp=sharing) & [Exercise 1](https://drive.google.com/file/d/1r6fSs32kvWmDTcLRRh5MGxcOVJ6ow-1F/view?usp=sharing)
 
 - [Lecture 2](https://drive.google.com/file/d/12jXC9PzCxfO0FU_5nICdbuyocOBZJ2RX/view?usp=sharing) & [Exercise 2](https://drive.google.com/file/d/1F6BUbLDU0H3bhLQNLLgKS1QG0vD4936R/view?usp=sharing)
