@@ -7,11 +7,11 @@ author_profile: true
 
 **Postal address**
 
-HG J 14.6\
-Rämistrasse 101\
-8092 Zurich\
-Switzerland
+Room 307\
+Vivatsgasse 7\
+53111 Bonn\
+Germany
 
-**Email:** longting.wu@math.ethz.ch
+**Email:** longting.wu@math.ethz.ch or longting@mpim-bonn.mpg.de
 
 
