@@ -12,6 +12,6 @@ Vivatsgasse 7\
 53111 Bonn\
 Germany
 
-**Email:** longting.wu@math.ethz.ch or longting@mpim-bonn.mpg.de
+**Email:** longting.wu[at]math[dot]ethz[dot]ch or longting[at]mpim-bonn[dot]mpg[dot]de
 
 
