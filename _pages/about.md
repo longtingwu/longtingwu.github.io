@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I will join the [Southern University of Science and Technology](https://math.sustech.edu.cn) as an Assistant Professor in the math department starting from 2022.
+
 I am currently visiting the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) at Bonn.
 
 Before that, I was a postdoctoral researcher at [ETH Zurich](https://math.ethz.ch) in the group of [Rahul Pandharipand](https://people.math.ethz.ch/~rahul/). I got my PhD in 2017 from Beijing International Center For Mathematical Research, Peking University, under the supervision of [Xiaobo Liu](https://bicmr.pku.edu.cn/~xbliu/). 
