@@ -7,6 +7,12 @@ author_profile: true
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
 
+- 10.11.2021. Algebraic geometry and moduli seminar, ETH Zurich.
+
+- 05.11.2021. The Algebraic Geometry and Gromov-Witten seminar, University of Bonn.
+
+- 21.10.2021. MPI-Oberseminar (online), MPIM.
+
 - 08.06.2021. Motives Seminar (online), University of Duisburg-Essen.
 
 - 21.10.2020. Algebraic geometry and moduli seminar (online), ETH Zurich.
