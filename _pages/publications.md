@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications&Preprints"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -19,6 +19,9 @@ My research work focuses on the studying of Gromov-Witten invariants.
 - With H. Fan and F. You. [Higher-genus relative Gromov–Witten theory and double ramification cycles](https://doi.org/10.1112/jlms.12417) *J. Lond. Math. Soc* **103**, 1547-1576, 2021. [arXiv version](http://arxiv.org/abs/1907.07133).
 
 - With H. Fan. [Witten–Dijkgraaf–Verlinde–Verlinde equation and its application to relative Gromov–Witten theory](https://doi.org/10.1093/imrn/rnz353) *Int. Math. Res. Not. IMRN* **2021**, 9834–9852, 2021. [arXiv version](https://arxiv.org/abs/1902.05739).
+
+Preprints
+=========
 
 - With A. Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://arxiv.org/abs/2112.09180). arXiv:2112.09180.
 
