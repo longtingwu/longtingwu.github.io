@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Longting Wu's homepage"
 title_separator          : "-"
 name                     : &name "Longting Wu"
-description              : &description "Postdoc, Department of Mathematics, ETH Zurich"
+description              : &description "AP, Department of Mathematics, Southern University of Science and Technology"
 url                      : https://longtingwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longtingwu/longtingwu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Longting Wu"
   avatar           : "me.jpeg"
-  bio              : "Postdoc, Max Planck Institute for Mathematics"
-  location         : "Bonn, Germany"
+  bio              : "Assistant Professor, Southern University of Science and Technology"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : longting.wu@math.ethz.ch
+  email            : wult@sustech.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
