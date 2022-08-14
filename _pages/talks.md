@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
+- 04.08.2022. International Workshop on Mathematics and Its Applications, Chungnam National University.
 
 - 07.06.2022. Symplectic Geometry and Mathematical Physics (online), Peking University.
 
