@@ -14,7 +14,7 @@ The following is a list of talks which I have given in seminars, workshops and c
 
 - 05.11.2021. The Algebraic Geometry and Gromov-Witten seminar, University of Bonn.
 
-- 21.10.2021. MPI-Oberseminar (online), MPIM.
+- 21.10.2021. MPI-Oberseminar (online), Max Planck Institute for Mathematics.
 
 - 08.06.2021. Motives Seminar (online), University of Duisburg-Essen.
 
