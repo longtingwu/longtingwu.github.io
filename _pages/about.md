@@ -14,6 +14,8 @@ Before that , I was a postdoc at [ETH Zurich](https://math.ethz.ch) in the group
 
 My research interests lie in algebraic geometry and mathematical physics. In particular, my research focuses on the study of Gromov-Witten theory. My Erdős number is 5.
 
+Starting from the Fall of 2022, I am co-organizing the [Lambda Seminar](https://lambda.sustech.edu.cn) with the aim to enhance the communication between mathematicians working in the area of Geometry and Mathematical Physics.
+
 [comment]: <> (Here is my CV.)
 
 
