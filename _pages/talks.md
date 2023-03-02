@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
+- 16.01.2023. International Conference for Mathematics and Its Applications (online). Chungnam National University.
 
 - 19.09.2022. Math seminar (online), Sun Yat-sen University.
 
