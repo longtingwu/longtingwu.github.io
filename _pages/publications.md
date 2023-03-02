@@ -26,8 +26,8 @@ Preprints
 - With A. Urundolil Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://arxiv.org/abs/2112.09180). arXiv:2112.09180.
 - With P. Bousseau. [All-genus WDVV recursion, quivers, and BPS invariants](https://arxiv.org/pdf/2303.00503.pdf). arXiv:2303.00503.
 
-
-
-
+Others
+=========
+- With H. Fan and F. You. Structures in relative Gromov-Witten theory. To appear in Proceedings of the 8th International Congress of Chinese Mathematicians (Beijing 2019). (available upon request)
 
 
