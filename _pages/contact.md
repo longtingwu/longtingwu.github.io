@@ -9,9 +9,9 @@ author_profile: true
 
 Department of Mathematics, \
 Southern University of Science and Technology,\
-Xueyuan Avenue 1088,\
-Taoyuan Street, Nanshan District,\
-Shenzhen, China
+Xueyuan Avenue 1088,
+Nanshan District,\
+Shenzhen, Guangdong 518055, China
 
 **Email:** wult[at]sustech[dot]edu[dot]cn
 
