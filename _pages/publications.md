@@ -28,6 +28,6 @@ Preprints
 
 Others
 =========
-- With H. Fan and F. You. Structures in relative Gromov-Witten theory. To appear in *Proceedings of the 8th International Congress of Chinese Mathematicians (Beijing 2019)*. (available upon request)
+- With H. Fan and F. You. **Structures in relative Gromov-Witten theory**. To appear in *Proceedings of the 8th International Congress of Chinese Mathematicians (Beijing 2019)*. (available upon request)
 
 
