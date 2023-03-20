@@ -6,13 +6,15 @@ author_profile: true
 ---
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
-- 16.01.2023. International Conference for Mathematics and Its Applications (online). Chungnam National University.
+- 20.03.2023. Intercontinental Moduli and Algebraic Geometry Zoominar (online), UBC and ETH Zurich.
+
+- 16.01.2023. International Conference for Mathematics and Its Applications (online), Chungnam National University.
 
 - 19.09.2022. Math seminar (online), Sun Yat-sen University.
 
 - 04.08.2022. International Workshop on Mathematics and Its Applications (online), Chungnam National University.
 
-- 07.06.2022. Symplectic Geometry and Mathematical Physics  (online), Peking University.
+- 07.06.2022. Symplectic Geometry and Mathematical Physics (online), Peking University.
 
 - 10.11.2021. Algebraic geometry and moduli seminar, ETH Zurich.
 
