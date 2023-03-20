@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
-- 20.03.2023. Intercontinental Moduli and Algebraic Geometry Zoominar (online), UBC and ETH Zurich.
+- 20.03.2023. Intercontinental Moduli and Algebraic Geometry Zoominar (online), joint host by UBC Vancouver and ETH Zürich.
 
 - 16.01.2023. International Conference for Mathematics and Its Applications (online), Chungnam National University.
 
