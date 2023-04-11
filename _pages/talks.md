@@ -7,7 +7,7 @@ author_profile: true
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
 
-- 11.04.2023. Online Geometry and Physics Seminar, IASM Zhejiang University.
+- 16.05.2023. Online Geometry and Physics Seminar, IASM Zhejiang University.
 
 - 20.03.2023. Intercontinental Moduli and Algebraic Geometry Zoominar (online), joint hosted by UBC Vancouver and ETH Zürich.
 
