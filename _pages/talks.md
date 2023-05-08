@@ -9,6 +9,8 @@ The following is a list of talks which I have given in seminars, workshops and c
 
 - 16.05.2023. Online Geometry and Physics Seminar, IASM Zhejiang University.
 
+- 08.05.2023. GADEPs focused conference II, BIMSA.
+
 - 20.03.2023. Intercontinental Moduli and Algebraic Geometry Zoominar (online), joint hosted by UBC Vancouver and ETH Zürich.
 
 - 16.01.2023. International Conference for Mathematics and Its Applications (online), Chungnam National University.
