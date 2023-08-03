@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
 
+- 03.08.2023. MIST 2023 Workshop on Geometry, The Chinese University of Hong Kong.
+
 - 16.05.2023. Online Geometry and Physics Seminar, IASM Zhejiang University.
 
 - 08.05.2023. GADEPs focused conference II, BIMSA.
