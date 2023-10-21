@@ -23,7 +23,7 @@ My research work focuses on the studying of Gromov-Witten invariants.
 Preprints
 =========
 
-- With A. Urundolil Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://arxiv.org/abs/2112.09180). arXiv:2112.09180.
+- With A. Urundolil Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://arxiv.org/abs/2112.09180). arXiv:2112.09180 (to appear in *Adv. Math.*). 
 - With P. Bousseau. [All-genus WDVV recursion, quivers, and BPS invariants](https://arxiv.org/pdf/2303.00503.pdf). arXiv:2303.00503.
 
 Others
