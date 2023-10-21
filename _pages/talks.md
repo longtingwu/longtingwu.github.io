@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
 
+- 19.10.2023. Guest lecture at JBJI, Jinan University-University of Birmingham Joint Institute.
+
 - 22.08.2023. Algebraic geometry and moduli seminar, ETH Zurich.
 
 - 03.08.2023. MIST 2023 Workshop on Geometry, The Chinese University of Hong Kong.
