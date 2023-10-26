@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
 
+- 23.10.2023. Workshop on Gromov-Witten Theory and Virasoro Constraints, Tianyuan Mathematics Research Center.
+
 - 19.10.2023. Guest lecture at J-BJI, Jinan University-University of Birmingham Joint Institute.
 
 - 22.08.2023. Algebraic geometry and moduli seminar, ETH Zurich.
