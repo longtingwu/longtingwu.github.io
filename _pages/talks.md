@@ -7,6 +7,10 @@ author_profile: true
 
 The following is a list of talks which I have given in seminars, workshops and conferences.
 
+- 11.11.2023. Workshop on Quantum Cohomology II, SUSTech.
+
+- 04.11.2023. Mini-workshop on Picard-Fuchs equations, moduli spaces and enumerative invariants,SUSTech.
+
 - 23.10.2023. Workshop on Gromov-Witten Theory and Virasoro Constraints, Tianyuan Mathematics Research Center.
 
 - 19.10.2023. Guest lecture at J-BJI, Jinan University-University of Birmingham Joint Institute.
