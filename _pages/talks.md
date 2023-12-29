@@ -5,7 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-The following is a list of talks which I have given in seminars, workshops and conferences.
+The following is a list of seminars, workshops and conferences where I have invited to give a talk.
+
+- 19.12.2023. International Workshop on Gromov-Witten Theory, Sun Yat-sen University.
 
 - 11.11.2023. Workshop on Quantum Cohomology II, SUSTech.
 
