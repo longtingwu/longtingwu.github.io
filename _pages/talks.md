@@ -7,7 +7,7 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk.
 
-- 29-31.01.2024. 3 Lecture series on Schubert Calulus, Chungnam National University.
+- 29-31.01.2024. 3 Lecture series on Schubert Calculus, Chungnam National University.
 
 - 19.12.2023. International Workshop on Gromov-Witten Theory, Sun Yat-sen University.
 
