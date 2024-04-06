@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+2024 Spring, Algebraic Geometry, Southern University of Science and Technology.
+
+2024 Spring, Linear Algebra, Southern University of Science and Technology.
+
 2023 Fall, Linear Algebra, Southern University of Science and Technology.
 
 2023 Spring, Advanced Linear Algebra II, Southern University of Science and Technology.
