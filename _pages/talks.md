@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 05.07.2024. Math seminar，Hunan University.
+
 - 25.03.2024. Workshop on Gromov-Witten theory, Huazhong University of Science and Technology.
 
 - 25.02.2024. Shuyun Lecture Series, Xiangtan University.
