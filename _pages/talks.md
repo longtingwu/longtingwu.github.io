@@ -7,6 +7,10 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 10.12.2024. String seminar, Bonn University.
+
+- 29.11.2024. Algebraic geometry and moduli seminar, ETH Zurich.
+
 - 05.07.2024. Math seminar, Hunan University.
 
 - 25.03.2024. Workshop on Gromov-Witten theory, Huazhong University of Science and Technology.
