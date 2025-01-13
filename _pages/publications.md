@@ -20,7 +20,7 @@ My research work focuses on the studying of Gromov-Witten invariants.
 
 - With H. Fan. [Witten–Dijkgraaf–Verlinde–Verlinde equation and its application to relative Gromov–Witten theory](https://doi.org/10.1093/imrn/rnz353) ***Int. Math. Res. Not. IMRN*** 2021, 9834–9852, 2021. [arXiv version](https://arxiv.org/abs/1902.05739).
 
-- With A. Urundolil Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://doi.org/10.1016/j.aim.2023.109357) ***Adv. Math.*** 435, Part A, 2023. [arXiv version](https://arxiv.org/abs/2112.09180)
+- With A. Urundolil Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://doi.org/10.1016/j.aim.2023.109357) ***Adv. Math.*** 435, Part A, 2023. [arXiv version](https://arxiv.org/abs/2112.09180).
 
 Preprints
 =========
@@ -31,7 +31,7 @@ Preprints
 
 Others
 =========
-- With H. Fan and F. You. Structures in relative Gromov-Witten theory. ***Proceedings of the International Consortium of Chinese Mathematicians 2019***, 2024.  
+- With H. Fan and F. You. Structures in relative Gromov-Witten theory. ***Proceedings of the International Consortium of Chinese Mathematicians 2019***, 2024. (This note is an expanded version of the second author’s talk at the 8th International Congress of Chinese Mathematicians).
 
 
 
