@@ -27,6 +27,8 @@ Preprints
 
 - With P. Bousseau. [All-genus WDVV recursion, quivers, and BPS invariants](https://arxiv.org/pdf/2303.00503.pdf). arXiv:2303.00503.
 
+- With S. Guo. [Poincaré polynomials of moduli spaces of one-dimensional sheaves on the projective plane](https://arxiv.org/pdf/2501.05622). arXiv:2501.05622.
+
 Others
 =========
 - With H. Fan and F. You. Structures in relative Gromov-Witten theory. ***Proceedings of the International Consortium of Chinese Mathematicians 2019***, 2024.  
