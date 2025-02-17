@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+2025 Spring, Linear Algebra, SUSTech.
 
 2024 Spring, Algebraic Geometry, SUSTech.
 
