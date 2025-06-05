@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 06.06.2025. MIST Workshop, The Chinese University of Hong Kong.
+
 - 28.02.2025. Mathematics Seminar Series, Great Bay University.
 
 - 10.12.2024. String seminar, University of Bonn.
