@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 28.07.2025. International Conference on Mathematics Inspired by String Theory, Shenzhen.
+
 - 17.07.2025. Special Algebraic Geometry Seminar, Columbia University.
 
 - 06.06.2025. MIST Workshop, The Chinese University of Hong Kong.
