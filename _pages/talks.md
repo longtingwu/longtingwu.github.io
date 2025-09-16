@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 16.09.2025. Theories and Computations in Mathematical Physics and Topology, Tianyuan Mathematics Research Center.
+
 - 28.07.2025. International Conference on Mathematics Inspired by String Theory, Shenzhen.
 
 - 17.07.2025. Special Algebraic Geometry Seminar, Columbia University.
