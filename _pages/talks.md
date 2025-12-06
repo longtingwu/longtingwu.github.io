@@ -7,6 +7,8 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 04.12.2025. Gauge theory and string geometry conference, Australian National University.
+
 - 14.10.2025. Xi'an International Workshop On Algebraic Geometry, Xi'an Jiaotong University.
   
 - 16.09.2025. Theories and Computations in Mathematical Physics and Topology, Tianyuan Mathematics Research Center.
