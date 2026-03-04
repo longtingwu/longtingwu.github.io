@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+2026 Spring, Topics in Geometry and Topology, SUSTech.
+
+2026 Spring, Linear Algebra, SUSTech.
+
 2025 Fall, Algebraic Geometry, SUSTech.
 
 2025 Spring, Linear Algebra, SUSTech.
