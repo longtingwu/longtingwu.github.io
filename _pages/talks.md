@@ -7,6 +7,10 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
+- 08.07.2026. The 5th National Algebraic Geometry Conference, Peking University.
+
+- 03.07.2026. Algebraic geometry and moduli seminar, ETH Zurich.
+
 - 11.05.2026. Mathematics Seminar Series, Dalian University of Technology.
 
 - 19.04.2026. Workshop on Mathematical Physics and Geometry, Huazhong University of Science and Technology.
