@@ -27,6 +27,8 @@ Preprints
 
 - With S. Guo, an appendix by M. Moreira. [Poincaré polynomials of moduli spaces of one-dimensional sheaves on the projective plane](https://arxiv.org/pdf/2501.05622). arXiv:2501.05622.
 
+- With Jianxun Hu, Pengrong Jin, Hua-Zhong Ke, Jingwei Lu and  Hsian-Hua Tseng. [Virasoro Constraints for Orbifold Curves](https://arxiv.org/abs/2609.01300). arXiv:2609.01300.
+
 Others
 =========
 - With H. Fan and F. You. Structures in relative Gromov-Witten theory. ***Proceedings of the International Consortium of Chinese Mathematicians 2019***, 2024. (This article is an expanded version of the talk I gave at the 8th International Congress of Chinese Mathematicians).
