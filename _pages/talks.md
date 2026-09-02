@@ -7,7 +7,7 @@ author_profile: true
 
 The following is a list of seminars, workshops and conferences where I have invited to give a talk (or talks).
 
-- 26.08.2026. MIST Conference 2026, CUHK.
+- 26.08.2026. MIST Conference 2026, The Chinese University of Hong Kong.
 
 - 08.07.2026. The 5th National Algebraic Geometry Conference, Peking University.
 
