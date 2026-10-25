@@ -20,12 +20,12 @@ author_profile: true
 
 - With A. Urundolil Kumaran. [A new approach to the operator formalism for Gromov-Witten invariants of the cap and tube](https://doi.org/10.1016/j.aim.2023.109357). ***Adv. Math.*** 435, Part A, 2023. [arXiv version](https://arxiv.org/abs/2112.09180).
 
+- With S. Guo, an appendix by M. Moreira. [Poincaré polynomials of moduli spaces of one-dimensional sheaves on the projective plane](https://doi.org/10.1007/s00208-026-03580-9). ***Math. Ann.*** 396, 65, 2026. [arXiv version](https://arxiv.org/pdf/2501.05622). 
+
 Preprints
 =========
 
 - With P. Bousseau. [All-genus WDVV recursion, quivers, and BPS invariants](https://arxiv.org/pdf/2303.00503.pdf). arXiv:2303.00503.
-
-- With S. Guo, an appendix by M. Moreira. [Poincaré polynomials of moduli spaces of one-dimensional sheaves on the projective plane](https://arxiv.org/pdf/2501.05622). arXiv:2501.05622.
 
 - With Jianxun Hu, Pengrong Jin, Hua-Zhong Ke, Jingwei Lu and  Hsian-Hua Tseng. [Virasoro Constraints for Orbifold Curves](https://arxiv.org/abs/2609.01300). arXiv:2609.01300.
 
