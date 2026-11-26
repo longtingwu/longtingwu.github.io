@@ -29,6 +29,8 @@ Preprints
 
 - With Jianxun Hu, Pengrong Jin, Hua-Zhong Ke, Jingwei Lu and  Hsian-Hua Tseng. [Virasoro Constraints for Orbifold Curves](https://arxiv.org/abs/2609.01300). arXiv:2609.01300.
 
+- With Shuai Guo and Lei You. [Virasoro operators for relative Gromov--Witten theory](https://arxiv.org/pdf/2611.30566). arXiv:2611.30566.
+
 Others
 =========
 - With H. Fan and F. You. Structures in relative Gromov-Witten theory. ***Proceedings of the International Consortium of Chinese Mathematicians 2019***, 2024. (This article is an expanded version of the talk I gave at the 8th International Congress of Chinese Mathematicians).
